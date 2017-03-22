@@ -1,7 +1,0 @@
-#Sat Mar 18 14:48:25 EDT 2017
-base.0=/Users/Krystle/Documents/Arizona State University/Spring_2017/B/SER423/DeleteMe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f0cbe76267b2741d25dcc88251afe9ebbb23fdde
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=/Users/Krystle/Documents/Arizona State University/Spring_2017/B/SER423/DeleteMe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_68bff6d3a826e35f6a8c9809efba9f1d3d5937d4/classes.dex
-base.1=/Users/Krystle/Documents/Arizona State University/Spring_2017/B/SER423/DeleteMe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_68bff6d3a826e35f6a8c9809efba9f1d3d5937d4
-file.0=/Users/Krystle/Documents/Arizona State University/Spring_2017/B/SER423/DeleteMe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f0cbe76267b2741d25dcc88251afe9ebbb23fdde/classes.dex

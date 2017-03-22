@@ -11,16 +11,6 @@ class PlaceDescription {
     var elev:Double
     var lat:Double
     var long:Double
-    init(){
-        self.name = ""
-        self.dscrpt = ""
-        self.cat = ""
-        self.addTtl = ""
-        self.addDscrpt = ""
-        self.elev = 0.0
-        self.lat = 0.0
-        self.long = 0.0
-    }
     init (jsonStr: String){
         self.name = ""
         self.dscrpt = ""
@@ -64,8 +54,8 @@ class PlaceDescription {
         return jsonStr
     }
     
-    
-    //Accessor Mutators... Not necessary with JSON
+    /*
+     Accessor Mutators... Not necessary with JSON
     
     func getName()->String{
         return self.name
@@ -139,12 +129,9 @@ class PlaceDescription {
             self.lat = 0.0
         }
     }
- 
+ */
 
 }
 
-/*
- INSTRUCTORS JSON EXAMPLE
 let myPlace:PlaceDescription = PlaceDescription(jsonStr: "{\"name\":\"ASU-Poly\",\"description\":\"Home of ASU's Software Engineering Programs\",\"category\":\"School\",\"address-title\":\"ASU Software Engineering\",\"address-street\":\"7171 E Sonoran Arroyo Mall Peralta Hall 230 Mesa AZ 85212\",\"elevation\":1300.0,\"latitude\":33.306388,\"longitude\":-111.679121}")
- */
 

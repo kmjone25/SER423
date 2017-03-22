@@ -14,6 +14,7 @@
 		67A097B91E808740003527A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 67A097B71E808740003527A9 /* LaunchScreen.storyboard */; };
 		67A097C41E808741003527A9 /* PlaceDescriptionJSONTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67A097C31E808741003527A9 /* PlaceDescriptionJSONTests.swift */; };
 		67A097CF1E808741003527A9 /* PlaceDescriptionJSONUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67A097CE1E808741003527A9 /* PlaceDescriptionJSONUITests.swift */; };
+		67A097DE1E80890A003527A9 /* PlaceDescriptionJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67A097DD1E80890A003527A9 /* PlaceDescriptionJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		67A097CA1E808741003527A9 /* PlaceDescriptionJSONUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlaceDescriptionJSONUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		67A097CE1E808741003527A9 /* PlaceDescriptionJSONUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceDescriptionJSONUITests.swift; sourceTree = "<group>"; };
 		67A097D01E808741003527A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		67A097DD1E80890A003527A9 /* PlaceDescriptionJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceDescriptionJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				67A097AE1E808740003527A9 /* AppDelegate.swift */,
 				67A097B01E808740003527A9 /* ViewController.swift */,
 				67A097B21E808740003527A9 /* Main.storyboard */,
+				67A097DD1E80890A003527A9 /* PlaceDescriptionJSON.swift */,
 				67A097B51E808740003527A9 /* Assets.xcassets */,
 				67A097B71E808740003527A9 /* LaunchScreen.storyboard */,
 				67A097BA1E808740003527A9 /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				67A097B11E808740003527A9 /* ViewController.swift in Sources */,
+				67A097DE1E80890A003527A9 /* PlaceDescriptionJSON.swift in Sources */,
 				67A097AF1E808740003527A9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
